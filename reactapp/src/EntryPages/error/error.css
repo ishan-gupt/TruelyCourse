@@ -1,0 +1,18 @@
+body {
+    background: white;
+    background-image: url(../bg.png);
+  }
+  p {
+    color: white;
+    text-align: center;
+    font-size: 300%
+  }
+  .err{
+    right: 50%;
+    bottom: 50%;
+    transform: translate(50%,50%);
+    position: absolute;
+    text-align: center;
+    padding: 10%;
+    background-color: #eeeeeed2;
+  }
